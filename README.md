@@ -7,6 +7,7 @@ Before starting to learn how to use the BERT model, you should understand the fo
 ### 1. Basic concept
 
 **Transfer Learning**
+Transfer learning is a machine learning technique where a pre-trained model trained on a large dataset is used as a starting point for a new task. Instead of starting the training from scratch, the pre-trained model is fine-tuned on a smaller dataset for a specific task, which allows for better performance with less training data and time.
 
 **Feature Base Vs Fine-Tuning**
 
